@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using ReadyPlayerMe;
+using UnityEngine;
 using UnityEngine.UI;
 
 namespace Wolf3D.ReadyPlayerMe.AvatarSDK
